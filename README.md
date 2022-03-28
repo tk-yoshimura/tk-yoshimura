@@ -7,4 +7,4 @@
 [TechRxiv](https://www.techrxiv.org/authors/Takuma_Yoshimura/8457516)  
 ### Skill Keywords  
 Machine Learning, Image Processing, High Precision Calculation, Statistical Processing  
-AVX, CUDA
+Interop Marshaling, Random Generation, AVX, CUDA, C++, C#, C++CLI, Python, R
