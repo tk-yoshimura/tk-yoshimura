@@ -6,5 +6,6 @@
 
 [**リポジトリ解説(Japanese)**](https://github.com/tk-yoshimura/tk-yoshimura/blob/main/portrait/github_tyoshimura.pdf)  
 
-### Interest  
-Machine Learning, Image Processing, High Precision Calculation, Statistical Processing
+### Skill  
+Machine Learning, Image Processing, High Precision Calculation, Statistical Processing  
+AVX, CUDA
