@@ -6,6 +6,6 @@
 
 [**リポジトリ解説(Japanese)**](https://github.com/tk-yoshimura/tk-yoshimura/blob/main/portrait/github_tyoshimura.pdf)  
 
-### Skill  
+### Skill Keywords  
 Machine Learning, Image Processing, High Precision Calculation, Statistical Processing  
 AVX, CUDA
