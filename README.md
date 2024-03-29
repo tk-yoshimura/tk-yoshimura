@@ -5,5 +5,5 @@
 [SlideShare](https://www.slideshare.net/TakumaYoshimura2)
 [ORCID](https://orcid.org/0000-0001-9224-1757)
 ### Skill Keywords  
-Machine Learning, Image Processing, High Precision Calculation, Statistical Processing  
+Math Special Function, Machine Learning, Image Processing, High Precision Calculation, Statistical Processing  
 Interop Marshaling, Random Generation, AVX, CUDA, C++, C#, C++CLI, Python, R
