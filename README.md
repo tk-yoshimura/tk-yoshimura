@@ -19,6 +19,8 @@
   - [MultiPrecisionComplex](https://github.com/tk-yoshimura/MultiPrecisionComplex)  
   - [MultiPrecisionAlgebra](https://github.com/tk-yoshimura/MultiPrecisionAlgebra)  
     - [MultiPrecisionComplexAlgebra](https://github.com/tk-yoshimura/MultiPrecisionComplexAlgebra)  
+  - [MultiPrecisionCurveFitting](https://github.com/tk-yoshimura/MultiPrecisionCurveFitting)  
+    - [MultiPrecisionComplexFitting](https://github.com/tk-yoshimura/MultiPrecisionComplexFitting)  
   - [MultiPrecisionIntegrate](https://github.com/tk-yoshimura/MultiPrecisionIntegrate)  
   - [MultiPrecisionDifferentiate](https://github.com/tk-yoshimura/MultiPrecisionDifferentiate)  
   - [MultiPrecisionRootFinding](https://github.com/tk-yoshimura/MultiPrecisionRootFinding)  
