@@ -31,6 +31,7 @@
 - [TensorShader](https://github.com/tk-yoshimura/TensorShader)  
 - [PrecisionTestTools](https://github.com/tk-yoshimura/PrecisionTestTools)  
 - [PNGReadWrite](https://github.com/tk-yoshimura/PNGReadWrite)  
+- [ColorPickerWPF](https://github.com/tk-yoshimura/ColorPickerWPF)
   
 ### Links  
 [Nuget.org](https://www.nuget.org/profiles/T.Yoshimura)
