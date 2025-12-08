@@ -23,7 +23,8 @@
   - [MultiPrecisionCurveFitting](https://github.com/tk-yoshimura/MultiPrecisionCurveFitting)  
     - [MultiPrecisionComplexFitting](https://github.com/tk-yoshimura/MultiPrecisionComplexFitting)  
   - [MultiPrecisionIntegrate](https://github.com/tk-yoshimura/MultiPrecisionIntegrate)  
-  - [MultiPrecisionDifferentiate](https://github.com/tk-yoshimura/MultiPrecisionDifferentiate)  
+  - [MultiPrecisionDifferentiate](https://github.com/tk-yoshimura/MultiPrecisionDifferentiate)
+  - [MultiPrecisionODE](https://github.com/tk-yoshimura/MultiPrecisionODE) 
   - [MultiPrecisionRootFinding](https://github.com/tk-yoshimura/MultiPrecisionRootFinding)  
   - [MultiPrecisionSeriesAcceleration](https://github.com/tk-yoshimura/MultiPrecisionSeriesAcceleration)  
 
